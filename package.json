@@ -1,0 +1,7 @@
+{
+  "name": "seit_task2",
+  "private": true,
+  "dependencies": {
+    "js": "^0.1.0"
+  }
+}
